@@ -1,0 +1,31 @@
+/* Custom scrollbar for the chat container */
+.overflow-y-auto {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 163, 224, 0.3) transparent;
+}
+
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 163, 224, 0.3);
+  border-radius: 20px;
+}
+
+/* Smooth scroll behavior */
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+
+/* Yoakum brand colors */
+:root {
+  --yoakum-blue: #00A3E0;
+  --yoakum-orange: #FFA300;
+  --yoakum-green: #7AB800;
+  --yoakum-black: #1A1A1A;
+}

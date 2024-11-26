@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 50 L40 20 L60 50" stroke="#00A3E0" stroke-width="4"/>
+  <path d="M30 45 C40 35, 50 35, 60 45" stroke="#7AB800" stroke-width="4" fill="none"/>
+  <path d="M35 40 L55 40" stroke="#FFA300" stroke-width="4"/>
+  <text x="80" y="45" font-family="Arial" font-size="24" fill="#1A1A1A">YOAKUM</text>
+  <text x="80" y="70" font-family="Arial" font-size="16" fill="#1A1A1A">WELL DRILLING & PUMP CO.</text>
+</svg>
